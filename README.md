@@ -1,0 +1,2 @@
+# Weather-Prediction-Using-Machine-Learning-Analytical-Pipeline-with-Random-Forest-RNN-and-SVM-Models
+This repo uses machine learning to enhance weather forecasting accuracy with the "Weather in Szeged from 2006–2016" dataset from Kaggle. Algorithms like Random Forest, RNN, and SVM are implemented, combined with advanced data preprocessing, visualization, and evaluation, addressing traditional forecasting limitations for actionable insights.
